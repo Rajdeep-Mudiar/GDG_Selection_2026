@@ -1,0 +1,233 @@
+{
+  "best_alpha": 0.19,
+  "test_r2": 0.8806273009418978,
+  "test_mae": 0.718875644291389,
+  "test_mse": 1.2033508500180528,
+  "test_accuracy_tolerance_1": 0.8220858895705522,
+  "categorical_features": [
+    "school",
+    "sex",
+    "address",
+    "famsize",
+    "Pstatus",
+    "Mjob",
+    "Fjob",
+    "reason",
+    "guardian",
+    "schoolsup",
+    "famsup",
+    "paid",
+    "activities",
+    "nursery",
+    "higher",
+    "internet",
+    "romantic"
+  ],
+  "numerical_features": [
+    "age",
+    "Medu",
+    "Fedu",
+    "traveltime",
+    "studytime",
+    "failures",
+    "famrel",
+    "freetime",
+    "goout",
+    "Dalc",
+    "Walc",
+    "health",
+    "absences",
+    "G1",
+    "G2"
+  ],
+  "all_features": [
+    "school",
+    "sex",
+    "age",
+    "address",
+    "famsize",
+    "Pstatus",
+    "Medu",
+    "Fedu",
+    "Mjob",
+    "Fjob",
+    "reason",
+    "guardian",
+    "traveltime",
+    "studytime",
+    "failures",
+    "schoolsup",
+    "famsup",
+    "paid",
+    "activities",
+    "nursery",
+    "higher",
+    "internet",
+    "romantic",
+    "famrel",
+    "freetime",
+    "goout",
+    "Dalc",
+    "Walc",
+    "health",
+    "absences",
+    "G1",
+    "G2"
+  ],
+  "school_values": [
+    "GP",
+    "MS"
+  ],
+  "sex_values": [
+    "F",
+    "M"
+  ],
+  "address_values": [
+    "R",
+    "U"
+  ],
+  "famsize_values": [
+    "GT3",
+    "LE3"
+  ],
+  "Pstatus_values": [
+    "A",
+    "T"
+  ],
+  "Mjob_values": [
+    "at_home",
+    "health",
+    "other",
+    "services",
+    "teacher"
+  ],
+  "Fjob_values": [
+    "at_home",
+    "health",
+    "other",
+    "services",
+    "teacher"
+  ],
+  "reason_values": [
+    "course",
+    "home",
+    "other",
+    "reputation"
+  ],
+  "guardian_values": [
+    "father",
+    "mother",
+    "other"
+  ],
+  "schoolsup_values": [
+    "no",
+    "yes"
+  ],
+  "famsup_values": [
+    "no",
+    "yes"
+  ],
+  "paid_values": [
+    "no",
+    "yes"
+  ],
+  "activities_values": [
+    "no",
+    "yes"
+  ],
+  "nursery_values": [
+    "no",
+    "yes"
+  ],
+  "higher_values": [
+    "no",
+    "yes"
+  ],
+  "internet_values": [
+    "no",
+    "yes"
+  ],
+  "romantic_values": [
+    "no",
+    "yes"
+  ],
+  "age_range": [
+    15.0,
+    22.0
+  ],
+  "age_median": 17.0,
+  "Medu_range": [
+    0.0,
+    4.0
+  ],
+  "Medu_median": 2.0,
+  "Fedu_range": [
+    0.0,
+    4.0
+  ],
+  "Fedu_median": 2.0,
+  "traveltime_range": [
+    1.0,
+    4.0
+  ],
+  "traveltime_median": 1.0,
+  "studytime_range": [
+    1.0,
+    4.0
+  ],
+  "studytime_median": 2.0,
+  "failures_range": [
+    0.0,
+    3.0
+  ],
+  "failures_median": 0.0,
+  "famrel_range": [
+    1.0,
+    5.0
+  ],
+  "famrel_median": 4.0,
+  "freetime_range": [
+    1.0,
+    5.0
+  ],
+  "freetime_median": 3.0,
+  "goout_range": [
+    1.0,
+    5.0
+  ],
+  "goout_median": 3.0,
+  "Dalc_range": [
+    1.0,
+    5.0
+  ],
+  "Dalc_median": 1.0,
+  "Walc_range": [
+    1.0,
+    5.0
+  ],
+  "Walc_median": 2.0,
+  "health_range": [
+    1.0,
+    5.0
+  ],
+  "health_median": 4.0,
+  "absences_range": [
+    0.0,
+    32.0
+  ],
+  "absences_median": 2.0,
+  "G1_range": [
+    0.0,
+    19.0
+  ],
+  "G1_median": 11.0,
+  "G2_range": [
+    0.0,
+    19.0
+  ],
+  "G2_median": 11.0,
+  "G3_range": [
+    0,
+    19
+  ]
+}

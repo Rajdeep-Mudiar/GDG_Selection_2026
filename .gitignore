@@ -1,0 +1,22 @@
+# Byte compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Editor directories
+.vscode/
+.idea/
+
+# Operating system files
+Thumbs.db
+.DS_Store
