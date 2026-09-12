@@ -4,6 +4,10 @@
 
 This project focuses on predicting secondary school students final academic grades (G3, on a scale of 0 to 20) using demographic information, family background, social habits, academic history, and previous period marks (G1 and G2).
 
+## Dataset Link
+
+https://www.kaggle.com/datasets/uciml/student-alcohol-consumption
+
 ## Approach
 
 1. Exploratory Data Analysis
