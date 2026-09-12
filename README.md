@@ -8,6 +8,10 @@ This project focuses on predicting secondary school students final academic grad
 
 https://www.kaggle.com/datasets/uciml/student-alcohol-consumption
 
+## Streamlit Link
+
+https://rajdeep-student-performance-prediction.streamlit.app/
+
 ## Approach
 
 1. Exploratory Data Analysis
